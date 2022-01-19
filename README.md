@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/selenap10/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-### Hey there 👋,
+### Hey there 👋🏻,
 
 🐙 I'm a code newbie (fullstack web development)
 
