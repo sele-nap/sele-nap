@@ -5,13 +5,13 @@
 
 ### Hey there 👋,
 
-I'm a code newbie (fullstack web development)
+🐙 I'm a code newbie (fullstack web development)
 
-I’m interested in new technologies, videogames, music and veganism
+🌱 I’m interested in new technologies, videogames, music and veganism
 
-I’m currently learning JavaScript and others frameworks, libraries : React.js, Next.js, Express, NodeJS, SQL
+🥞 I’m currently learning JavaScript and others frameworks, libraries : React.js, Next.js, Express, NodeJS, SQL
 
-I'm very interested in open source and am looking to use it whenever I can. I would like to contribute later
+🍵 I'm very interested in open source and am looking to use it whenever I can. I would like to contribute later
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sele-nap&show_icons=true&theme=dracula)
  
