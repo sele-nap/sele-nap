@@ -7,7 +7,7 @@
 
 🐙 I'm a code newbie (fullstack web development)
 
-🌱 I’m interested in new technologies, videogames, music and veganism
+🌱 I’m interested in new technologies, gaming, music and veganism
 
 🥞 I’m currently learning JavaScript and others frameworks, libraries : React.js, Next.js, Express, NodeJS, SQL
 
