@@ -1,7 +1,8 @@
 <p align='center'>
-<a href="https://twitter.com/sele_nap"><img height="30" src="https://github.com/sele-nap/sele-nap/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/selenap10/"><img height="30" src="https://github.com/sele-nap/sele-nap/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/sele_nap"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/selenap10/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
+
 
 ### Hey there 👋🏻,
 
