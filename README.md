@@ -14,7 +14,7 @@
 
 🍵 I'm very interested in open source and am looking to use it whenever I can. I would like to contribute later
 
-🐱 Cats rule the world
+<center>🐱 Cats rule the world</center>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sele-nap&show_icons=true&theme=dracula)
  
