@@ -14,6 +14,8 @@
 
 🍵 I'm very interested in open source and am looking to use it whenever I can. I would like to contribute later
 
+🐱 Cats rule the world
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sele-nap&show_icons=true&theme=dracula)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sele-nap&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
