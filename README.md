@@ -14,7 +14,7 @@
 
 🍵 I'm very interested in open source and am looking to use it whenever I can. I would like to contribute later
 
-<p align="center">🐱 Cats rule the world 🐱</p>
+<p align="center">🐱 Cats rules the world 🐱</p>
 
 
 
