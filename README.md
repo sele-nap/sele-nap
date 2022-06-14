@@ -12,7 +12,7 @@
 
 🥞 I’m currently learning JavaScript and others frameworks & libraries : React.js, Next.js, Three.js, Vue.js, NodeJS, SQL
 
-🍵 I'm very interested in open source and am looking to use it whenever I can. I would like to contribute later
+
 
 <p align="center">🐱 Cats rules the world 🐱</p>
 
