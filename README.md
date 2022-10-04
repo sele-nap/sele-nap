@@ -10,7 +10,7 @@
 
 🌱 I’m interested in new technologies, gaming, music, books and veganism
 
-🥞 I’m currently learning JavaScript and others frameworks & libraries : React.js, Next.js, Three.js, Vue.js, NodeJS, SQL
+🫧 I’m currently learning JavaScript and others frameworks & libraries : React.js, Next.js, Three.js, Vue.js, NodeJS, SQL
 
 
 
