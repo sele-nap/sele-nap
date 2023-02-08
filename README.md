@@ -23,4 +23,4 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sele-nap&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://visitcount.itsvg.in/api?id=sele-nap&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sele-nap&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
