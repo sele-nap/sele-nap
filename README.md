@@ -18,7 +18,7 @@
 
 
 
-<p align="center">🐱 Cats rules the world 🐱</p>
+<p align="center">🐱 Cats rule the world 🐱</p>
 
 
 
