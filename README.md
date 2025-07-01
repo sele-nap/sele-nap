@@ -5,11 +5,13 @@
 
 ### Hey there 👋🏻,
 
-🐙 I'm a code newbie (fullstack web development)
+🐙 I started working in fullstack web development 3 years ago, although I consider I'm constantly learning
 
 🌱 I’m interested in new technologies, gaming, music, books and veganism
 
-🫧 I’m currently learning JavaScript/TypeScript and others frameworks & libraries : React.js/React Native, Three.js, Vue.js, NodeJS, SQL
+🫧 I’m currently working with JavaScript/TypeScript and others frameworks & libraries : React.js/React Native, Three.js, Vue.js, NodeJS, SQL
+
+🌙 I'm interested in the front-end, but I like to challenge in the back-end and expand my knowledge of it
 
 
 
