@@ -5,7 +5,7 @@
 
 ### Hey there 👋🏻,
 
-🐙 I started working in fullstack web development 3 years ago, although I consider I'm constantly learning
+🐙 I started working in fullstack web development 4 years ago, although I consider I'm constantly learning
 
 🌱 I’m interested in new technologies, gaming, music, books and veganism
 
