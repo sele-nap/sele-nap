@@ -2,17 +2,22 @@
 <img width="100%" src="https://i.imgur.com/8a1pmv0.gif"/>
 </p>
 
+<h3 align="center">Séléna 🍂 // Fullstack Developer</h3>
 
-### Hey there 👋🏻,
+<p align="center">
+  TypeScript · React · Vue · Node.js · Three.js · MongoDB
+</p>
 
-🐙 I started working in fullstack web development 4 years ago, although I consider I'm constantly learning
+---
 
-🌱 I’m interested in new technologies, gaming, music, books and veganism
+### Hey 👋🏻
 
-🫧 I’m currently working with JavaScript/TypeScript and others frameworks & libraries : React.js/React Native, Three.js, Vue.js, NodeJS, SQL
+🔭 Currently working as a fullstack developer in Lyon, France
 
-🌙 I'm interested in the front-end, but I like to challenge in the back-end and expand my knowledge of it
+📚 Reading · 🎮 Gaming · 🎸 Metal & goth · 🌱 Vegan · 🐈‍⬛🐈‍⬛ Cat mum
 
+🕯️ Crafting web experiences by candlelight
 
+---
 
 <p align="center">🐱 Cats rule the world 🐱</p>
