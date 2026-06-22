@@ -12,7 +12,7 @@
 
 ### Hey 👋🏻
 
-🔭 Currently working as a fullstack developer in Lyon, France
+🐙 Currently working as a fullstack developer in Lyon, France
 
 📚 Reading · 🎮 Gaming · 🎸 Metal & goth · 🌱 Vegan · 🐈‍⬛🐈‍⬛ Cat mum
 
