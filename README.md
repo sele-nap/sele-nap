@@ -12,9 +12,9 @@
 
 ### Hey 👋🏻
 
-🐙 Currently working as a fullstack developer in Lyon, France
+🐙 Currently looking for a job in Lyon, France
 
-📚 Reading · 🎮 Gaming · 🎸 Metal & goth · 🌱 Vegan · 🐈‍⬛🐈‍⬛ Cat mum
+📚 Reading · 🎮 Gaming · 🎸 Metal & goth · 🌱 Vegan · 🐈‍⬛🐈‍⬛ Cats mum
 
 🕯️ Crafting web experiences by candlelight
 
